@@ -1,7 +1,5 @@
-JUnit 4 Demo
-============
-
-JUnit 4 demo code.
+Java JUnit "@RunWith" Demo
+==========================
 
 ```
 mvn test
